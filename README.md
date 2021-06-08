@@ -23,3 +23,7 @@ https://github.com/CyberSecurityUP/Cracking-The-Perimeter-Framework
 https://github.com/CyberSecurityUP/Adversary-Emulation-Matrix
 
 https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations
+
+https://www.linkedin.com/in/joas-antonio-dos-santos (My LinkedIn)
+
+https://twitter.com/C0d3Cr4zy (My Twitter)
