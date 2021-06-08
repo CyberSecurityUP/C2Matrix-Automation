@@ -19,3 +19,7 @@ If you want to know more about CTP
 
 
 https://github.com/CyberSecurityUP/Cracking-The-Perimeter-Framework
+
+https://github.com/CyberSecurityUP/Adversary-Emulation-Matrix
+
+https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations
