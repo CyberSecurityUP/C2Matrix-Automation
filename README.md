@@ -2,7 +2,7 @@
 
 ## What is project?
 
-The project is based on the C2 Matrix by Jorge Jorge Orchilles, Bryson Bort and Adam Mashinchi, which is a sensational project that helps you pinpoint the best C2 for your needs.
+The project is based on the C2 Matrix, hich is a sensational project that helps you pinpoint the best C2 for your needs.
 
 https://www.thec2matrix.com/about
 
@@ -23,7 +23,3 @@ https://github.com/CyberSecurityUP/Cracking-The-Perimeter-Framework
 https://github.com/CyberSecurityUP/Adversary-Emulation-Matrix
 
 https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations
-
-https://www.linkedin.com/in/joas-antonio-dos-santos (My LinkedIn)
-
-https://twitter.com/C0d3Cr4zy (My Twitter)
