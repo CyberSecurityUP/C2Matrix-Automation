@@ -1,7 +1,6 @@
 #!/bin/bash
 while :; do
 echo "Welcome to C2 Matrix Automation"
-echo "Create by Joas Antonio"
 echo "Based on C2 Matrix and Cracking The Perimeter Framework"
 echo "Version 1.0 - Beta"
 echo ""
